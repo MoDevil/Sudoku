@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">数独</string>
+
+    <string name="text_start">新游戏</string>
+    <string name="text_history">历史</string>
+    <string name="text_continue">继续游戏</string>
+    <string name="text_delete">删除</string>
+    <string name="text_clear_all">删除全部</string>
+    <string name="text_test">测试</string>
+    <string name="text_game_status">游戏状态：</string>
+    <string name="text_game_level">游戏难度：</string>
+
+    <string name="text_unsolved">未完成</string>
+    <string name="text_solved">已完成</string>
+    <string name="text_untried">未尝试</string>
+
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+</resources>
